@@ -4,3 +4,8 @@
 *.ptx
 *.cubin
 *.fatbin
+test25.mp4
+dataset/fer2013/
+input/fromvideo/
+video/SourceVideo.mp4
+models/cnn3_best_weights.h5
